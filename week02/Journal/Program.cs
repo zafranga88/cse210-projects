@@ -70,3 +70,19 @@ class Program
         Console.WriteLine("Thank you for using the Journal Program!");
     }
 }
+
+/* 
+ * EXCEEDING REQUIREMENTS:
+ *
+ * 1. Enhanced Error Handling: Added robust try-catch blocks for file operations
+ *    with user-friendly error messages.
+ * 
+ * 2. Extended Prompt Library: Added five additional custom prompts beyond the 
+ *    required minimum.
+ * 
+ * 3. User Experience Improvements: Added success messages, better formatting,
+ *    and empty state handling for better readability and feedback.
+ * 
+ * 4. Entry Validation: Implemented validation when loading entries to prevent
+ *    crashes from malformed data.
+ */
